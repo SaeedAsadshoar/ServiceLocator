@@ -1,0 +1,18 @@
+{
+  "name": "com.sashunity.servicelocator",
+  "version": "0.0.1",
+  "displayName": "Service Locator",
+  "description": "This package provide service Locator",
+  "unity": "2022.3",
+  "dependencies": {
+  },
+  "keywords": [
+    "Service",
+    "Locator"
+  ],
+  "author": {
+    "name": "SashUnity",
+    "email": "saeedasadshoar68@gmail.com",
+    "url": ""
+  }
+}
